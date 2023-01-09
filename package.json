@@ -1,0 +1,16 @@
+{
+  "name": "react-odev-1",
+  "version": "1.0.0",
+  "description": "React eğitimi giriş bölümü ödevi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ahmet Can",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
+}
